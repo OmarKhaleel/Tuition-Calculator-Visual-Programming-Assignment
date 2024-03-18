@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\TuitionCalculator\bin\Debug\TuitionCalculator.exe.config
+C:\Users\admin\source\repos\TuitionCalculator\bin\Debug\TuitionCalculator.exe
+C:\Users\admin\source\repos\TuitionCalculator\bin\Debug\TuitionCalculator.pdb
+C:\Users\admin\source\repos\TuitionCalculator\obj\Debug\TuitionCalculator.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TuitionCalculator\obj\Debug\TuitionCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\TuitionCalculator\obj\Debug\TuitionCalculator.Form1.resources
+C:\Users\admin\source\repos\TuitionCalculator\obj\Debug\TuitionCalculator.Properties.Resources.resources
+C:\Users\admin\source\repos\TuitionCalculator\obj\Debug\TuitionCalculator.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TuitionCalculator\obj\Debug\TuitionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TuitionCalculator\obj\Debug\TuitionCalculator.exe
+C:\Users\admin\source\repos\TuitionCalculator\obj\Debug\TuitionCalculator.pdb
